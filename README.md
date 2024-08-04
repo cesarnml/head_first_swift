@@ -6,7 +6,7 @@
 
 ## Chapters
 
-- [ ] Chapter 01: Introduction
+- [x] ~~_Chapter 01: Introduction_~~ [2024-08-04]
 - [ ] Chapter 02: Variables, Constants, Types, and Operators
 - [ ] Chapter 03: Collections and Control Flow
 - [ ] Chapter 04: Functions and Enums
